@@ -12,62 +12,110 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/index.html</loc>
+  <loc>https://academia.arquidis.com.co/arcgis.html</loc>
   <lastmod>2020-05-10T15:43:34+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/about.html</loc>
+  <loc>https://academia.arquidis.com.co/autocad.html</loc>
   <lastmod>2020-05-10T12:16:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/work.html</loc>
+  <loc>https://academia.arquidis.com.co/civil.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/amp.html</loc>
+  <loc>https://academia.arquidis.com.co/contact.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.90</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/point-amp.html</loc>
+  <loc>https://academia.arquidis.com.co/contratacion.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <!-- Páginas en español -->
 <url>
-  <loc>https://arquidis.com.co/inicio.html</loc>
+  <loc>https://academia.arquidis.com.co/courses.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/somos.html</loc>
+  <loc>https://academia.arquidis.com.co/dynamo.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/puntos.html</loc>
+  <loc>https://academia.arquidis.com.co/excel.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/funciona.html</loc>
+  <loc>https://academia.arquidis.com.co/gallery.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/es-amp.html</loc>
+  <loc>https://academia.arquidis.com.co/index.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>1</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/licencias.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/lumion.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/paneles.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/presupuestos.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/profesores.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/project.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/revit.html</loc>
+  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <priority>0.90</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://academia.arquidis.com.co/topografia.html</loc>
   <lastmod>2020-05-10T12:16:04+00:00</lastmod>
   <priority>0.90</priority>
   <changefreq>weekly</changefreq>
