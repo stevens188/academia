@@ -1,98 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://arquidis.com.co/</title>
-  <link>https://arquidis.com.co/</link>
+  <title>ROR Sitemap for https://academia.arquidis.com.co/</title>
+  <link>https://academia.arquidis.com.co/</link>
 
 <item>
-     <link>https://arquidis.com.co/</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Hire architectural draftsman in Latin America only when you need them, You only pay after you have received the job to your satisfaction, We can help you with custom families for interior or exterior design, such as doors, windows or lighting.</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>0</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://arquidis.com.co/index.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Hire architectural draftsman in Latin America only when you need them, You only pay after you have received the job to your satisfaction, We can help you with custom families for interior or exterior design, such as doors, windows or lighting.</description>
+     <link>https://academia.arquidis.com.co/about.html</link>
+     <title>¿Qué hace la empresa arquidis?</title>
+     <description>¿Qué hace la empresa arquidis?</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/about.html</link>
-     <title>Who is arquidis - Revit drafting Services</title>
-     <description>We are a company located in Latin America dedicated to providing, Our location allows us to offer competitive prices in the industry.</description>
+     <link>https://academia.arquidis.com.co/arcgis.html</link>
+     <title>Curso de ArcGis en Villavicencio</title>
+     <description>v</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/work.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Hire architectural draftsman in Latin America only when you need them, You only pay after you have received the job to your satisfaction, We can help you with custom families for interior or exterior design, such as doors, windows or lighting.</description>
+     <link>https://academia.arquidis.com.co/autocad.html</link>
+     <title>Curso de autocad en Villavicencio</title>
+     <description>Curso de autocad en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/amp.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Hire architectural draftsman in Latin America only when you need them, You only pay after you have received the job to your satisfaction, We can help you with custom families for interior or exterior design, such as doors, windows or lighting.</description>
+     <link>https://academia.arquidis.com.co/civil.html</link>
+     <title>Curso de civil 3D en Villavicencio</title>
+     <description>Curso de civil 3D en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/point-amp.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Hire architectural draftsman in Latin America only when you need them, You only pay after you have received the job to your satisfaction, We can help you with custom families for interior or exterior design, such as doors, windows or lighting.</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<!-- Páginas en español -->
-<item>
-     <link>https://arquidis.com.co/inicio.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <link>https://academia.arquidis.com.co/contact.html</link>
+     <title>telefonos de la empresa arquidis en Villavicencio</title>
+     <description>telefonos de la empresa arquidis en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/puntos.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <link>https://academia.arquidis.com.co/contratacion.html</link>
+     <title>Curso de contratacion publica en Villavicencio</title>
+     <description>Curso de contratacion publica en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/somos.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <link>https://academia.arquidis.com.co/courses.html</link>
+     <title>Todos los cursos de villavicencio</title>
+     <description>Todos los cursos de villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/funciona.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <link>https://academia.arquidis.com.co/dynamo.html</link>
+     <title>Curso de dynamo para revit en Villavicencio</title>
+     <description>Curso de dynamo para revit en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://arquidis.com.co/es-amp.html</link>
-     <title>Revit drafting services - Point Cloud revit - draftman revit</title>
-     <description>Servicio de diujo arquitectónico, especialistas en Revit, solo pagas después de haber recibido el trabajo a tu entera satisfacción. Podemos ayudarte con familias personalizadas para el diseño interior o exterior, como puertas, ventanas o iluminación.</description>
+     <link>https://academia.arquidis.com.co/excel.html</link>
+     <title>Curso de excel en Villavicencio</title>
+     <description>Curso de excel en Villavicencio</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
-
+<item>
+     <link>https://academia.arquidis.com.co/gallery.html</link>
+     <title>fotos de arquidis en villavicencio</title>
+     <description>fotos de arquidis en villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/index.html</link>
+     <title>Cursos de arquitectura y topografia en villavicencio Meta</title>
+     <description>Cursos de arquitectura y topografia en villavicencio Meta</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/licencias.html</link>
+     <title>curso de licencias en Villavicencio</title>
+     <description>curso de licencias en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/lumion.html</link>
+     <title>curso de lumion en Villavicencio</title>
+     <description>curso de lumion en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/paneles.html</link>
+     <title>curso de photoshop en Villavicencio</title>
+     <description>curso de photoshop en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/presupuestos.html</link>
+     <title>Curso de presupuestos en Villavicencio</title>
+     <description>curso de presupuestos en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://academia.arquidis.com.co/project.html</link>
+     <title>Curso de project en Villavicencio</title>
+     <description>Curso de project en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item><item>
+     <link>https://academia.arquidis.com.co/revit.html</link>
+     <title>Curso de Revit en Villavicencio</title>
+     <description>Curso de Revit en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item><item>
+     <link>https://academia.arquidis.com.co/topografia.html</link>
+     <title>Curso de topografia en Villavicencio</title>
+     <description>Curso de topografia en Villavicencio</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
 </channel>
 </rss>
